@@ -1,0 +1,9 @@
+praw
+pandas
+nltk
+scikit-learn
+gensim
+matplotlib
+beautifulsoup4
+numpy
+wordcloud
